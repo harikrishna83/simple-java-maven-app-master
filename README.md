@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # simple-java-maven-app
 
 This repository is for the
@@ -13,3 +14,7 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
+=======
+# simple-java-maven-app-master
+Sample Maven repository
+>>>>>>> 2c822429c043e92febaecef7144a25f643bdeeb5
